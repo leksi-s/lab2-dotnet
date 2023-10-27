@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\obj\Debug\net7.0\Lab2_dotnet.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\obj\Debug\net7.0\Lab2_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\obj\Debug\net7.0\Lab2_dotnet.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\obj\Debug\net7.0\Lab2_dotnet.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\obj\Debug\net7.0\Lab2_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\bin\Debug\net7.0\Lab2_dotnet.exe
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\bin\Debug\net7.0\Lab2_dotnet.deps.json
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\bin\Debug\net7.0\Lab2_dotnet.runtimeconfig.json
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\bin\Debug\net7.0\Lab2_dotnet.dll
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\bin\Debug\net7.0\Lab2_dotnet.pdb
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\obj\Debug\net7.0\Lab2_dotnet.dll
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\obj\Debug\net7.0\refint\Lab2_dotnet.dll
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\obj\Debug\net7.0\Lab2_dotnet.pdb
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\obj\Debug\net7.0\Lab2_dotnet.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Lab2_dotnet\Lab2_dotnet\obj\Debug\net7.0\ref\Lab2_dotnet.dll

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Actor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>1</Id>
+    <FullName>Денисенко Денис Денисович</FullName>
+    <Amplua>амплуа1</Amplua>
+	  <DateOfBirth>2023/10/26</DateOfBirth>
+    <IsProducer>true</IsProducer>
+  </Actor>
+  <Actor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>2</Id>
+    <FullName>Петренко Петро Петрович</FullName>
+    <Amplua>амплуа2</Amplua>
+	  <DateOfBirth>8/8/1999</DateOfBirth>
+    <IsProducer>false</IsProducer>
+  </Actor>
+  <Actor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>3</Id>
+    <FullName>Степаненко Степан Степанович</FullName>
+    <Amplua>амплуа1</Amplua>
+	  <DateOfBirth>1990/5/4</DateOfBirth>
+    <IsProducer>false</IsProducer>
+  </Actor>
+  <Actor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>4</Id>
+    <FullName>Сергiєнко Сергiй Сергiйович</FullName>
+    <Amplua>амплуа3</Amplua>
+	  <DateOfBirth>2000/5/8</DateOfBirth>
+    <IsProducer>false</IsProducer>
+  </Actor>
+  <Film xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>1</Id>
+    <NameOfFilm>Довбуш</NameOfFilm>
+    <YearOfRelease>2023</YearOfRelease>
+    <Genre>пригодницьк?</Genre>
+    <Producer>Денисенко Денис Денисович</Producer>
+  </Film>
+  <Film xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>2</Id>
+    <NameOfFilm>Оппенгеймер</NameOfFilm>
+    <YearOfRelease>2023</YearOfRelease>
+    <Genre>науковi</Genre>
+    <Producer>Райян Гослiнг</Producer>
+  </Film>
+  <Film xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>3</Id>
+    <NameOfFilm>Памфiр</NameOfFilm>
+    <YearOfRelease>2022</YearOfRelease>
+    <Genre>лiричнi</Genre>
+    <Producer>Моставчук Петро Петрович</Producer>
+  </Film>
+  <Film xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>4</Id>
+    <NameOfFilm>Барбi</NameOfFilm>
+    <YearOfRelease>2020</YearOfRelease>
+    <Genre>науковi</Genre>
+    <Producer>Райян Гослiнг</Producer>
+  </Film>
+  <Spectacle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>1</Id>
+    <NameOfSpectacle>Зачарована Десна</NameOfSpectacle>
+    <Genre>пригодницькi</Genre>
+  </Spectacle>
+  <Spectacle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>2</Id>
+    <NameOfSpectacle>Федько-халамидник</NameOfSpectacle>
+    <Genre>трагiчнi</Genre>
+  </Spectacle>
+  <Spectacle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>3</Id>
+    <NameOfSpectacle>Наталка Полтавка</NameOfSpectacle>
+    <Genre>лiричнi</Genre>
+  </Spectacle>
+  <Spectacle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <Id>4</Id>
+    <NameOfSpectacle>Червона Шапочка</NameOfSpectacle>
+    <Genre>пригодницькi</Genre>
+  </Spectacle>
+  <ActorToFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>1</ActorId>
+    <FilmId>1</FilmId>
+  </ActorToFilm>
+  <ActorToFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>1</ActorId>
+    <FilmId>3</FilmId>
+  </ActorToFilm>
+  <ActorToFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>2</ActorId>
+    <FilmId>1</FilmId>
+  </ActorToFilm>
+  <ActorToFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>3</ActorId>
+    <FilmId>3</FilmId>
+  </ActorToFilm>
+  <ActorToFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>4</ActorId>
+    <FilmId>4</FilmId>
+  </ActorToFilm>
+  <ActorToFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>1</ActorId>
+    <FilmId>4</FilmId>
+  </ActorToFilm>
+  <ActorToSpectacle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>1</ActorId>
+    <SpectacleId>1</SpectacleId>
+  </ActorToSpectacle>
+  <ActorToSpectacle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>1</ActorId>
+    <SpectacleId>2</SpectacleId>
+  </ActorToSpectacle>
+  <ActorToSpectacle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>3</ActorId>
+    <SpectacleId>3</SpectacleId>
+  </ActorToSpectacle>
+  <ActorToSpectacle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>4</ActorId>
+    <SpectacleId>4</SpectacleId>
+  </ActorToSpectacle>
+  <ActorToSpectacle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <ActorId>4</ActorId>
+    <SpectacleId>2</SpectacleId>
+  </ActorToSpectacle>
+</Root>
